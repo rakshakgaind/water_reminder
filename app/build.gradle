@@ -9,7 +9,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.project.water_reminder"
+        applicationId "com.ultivic.water_reminder"
         minSdk 24
         targetSdk 33
         versionCode 1
